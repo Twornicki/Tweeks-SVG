@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: APP-6(D)(2) Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Version_1.2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="612" height="792" viewBox="0 0 612 792"
+	 overflow="visible" enable-background="new 0 0 612 792" xml:space="preserve">
+<g id="template" transform="translate(60 181)" display="none">
+	<text transform="matrix(1 0 0 1 38.876 272.2959)" display="inline" font-family="'ArialMT'" font-size="24">CENTER</text>
+	<text transform="matrix(1 0 0 1 54.876 296.2959)" display="inline" font-family="'ArialMT'" font-size="24">POINT</text>
+	<line display="inline" fill="none" stroke="#808080" stroke-width="5" x1="142.222" y1="274.043" x2="220.208" y2="229.852"/>
+	<polygon display="inline" fill="#808080" stroke="#808080" stroke-width="2" points="243.5,217.035 219.756,251.737 
+		201.608,220.647 	"/>
+</g>
+<circle fill="#00FF00" stroke="#00FF00" stroke-width="2" cx="195.727" cy="381.431" r="31.392"/>
+<line fill="#00FF00" stroke="#00FF00" stroke-width="5" x1="176.96" y1="356.964" x2="147.876" y2="321.878"/>
+<line fill="#00FF00" stroke="#00FF00" stroke-width="5" x1="213.893" y1="356.041" x2="242.053" y2="321.878"/>
+<g id="main_2_">
+	<circle fill="#00FF00" stroke="#00FF00" stroke-width="2" cx="306.588" cy="384.431" r="31.392"/>
+	<line fill="#00FF00" stroke="#00FF00" stroke-width="5" x1="287.198" y1="359.964" x2="258.114" y2="324.878"/>
+	<line fill="#00FF00" stroke="#00FF00" stroke-width="5" x1="324.131" y1="359.041" x2="352.291" y2="324.878"/>
+	
+		<line fill="#00FF00" stroke="#00FF00" stroke-width="5" stroke-dasharray="15 15" x1="337.98" y1="384.431" x2="363.217" y2="384.517"/>
+	<polygon fill="#00FF00" stroke="#00FF00" points="361.516,390.282 371.5,384.563 361.555,378.774 	"/>
+</g>
+<g id="main_5_">
+	<path fill="none" stroke="#00FF00" stroke-width="5" stroke-dasharray="15 15" d="M376.443,398.885
+		c0-25.398,20.588-45.988,45.996-45.988c25.388,0,45.979,20.588,45.979,45.988"/>
+	
+		<line fill="none" stroke="#00FF00" stroke-width="5" stroke-dasharray="15 15" x1="375.578" y1="399.497" x2="469.122" y2="399.529"/>
+</g>
+</svg>

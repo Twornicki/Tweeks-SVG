@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: APP-6(D)(2) Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Version_1.2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="612" height="792" viewBox="0 0 612 792"
+	 overflow="visible" enable-background="new 0 0 612 792" xml:space="preserve">
+<g id="template" transform="translate(60 181)" display="none">
+	<text transform="matrix(1 0 0 1 38.876 272.2959)" display="inline" font-family="'ArialMT'" font-size="24">CENTER</text>
+	<text transform="matrix(1 0 0 1 54.876 296.2959)" display="inline" font-family="'ArialMT'" font-size="24">POINT</text>
+	<line display="inline" fill="none" stroke="#808080" stroke-width="5" x1="142.222" y1="274.043" x2="220.208" y2="229.852"/>
+	<polygon display="inline" fill="#808080" stroke="#808080" stroke-width="2" points="243.5,217.035 219.756,251.737 
+		201.608,220.647 	"/>
+</g>
+<line fill="#00FF00" stroke="#00FF00" stroke-width="5" x1="176.96" y1="356.964" x2="147.876" y2="321.878"/>
+<line fill="#00FF00" stroke="#00FF00" stroke-width="5" x1="213.893" y1="356.041" x2="242.053" y2="321.878"/>
+<path fill="#00FF00" stroke="#00FF00" stroke-width="2" d="M313.977,346.072c18.275,0,33.102,14.818,33.102,33.098
+	c0,18.293-14.826,33.095-33.102,33.095c-18.281,0-33.099-14.802-33.099-33.095C280.879,360.891,295.698,346.072,313.977,346.072z"/>
+<g id="main_3_">
+	<circle fill="#00FF00" stroke="#00FF00" stroke-width="2" cx="196.352" cy="382.431" r="31.392"/>
+	<line fill="#00FF00" stroke="#00FF00" stroke-width="5" x1="176.962" y1="357.964" x2="147.878" y2="322.878"/>
+	<line fill="#00FF00" stroke="#00FF00" stroke-width="5" x1="213.895" y1="357.041" x2="242.055" y2="322.878"/>
+	
+		<line fill="#00FF00" stroke="#00FF00" stroke-width="5" stroke-dasharray="15 15" x1="227.744" y1="382.432" x2="252.98" y2="382.518"/>
+	<polygon fill="#00FF00" stroke="#00FF00" points="251.278,388.282 261.264,382.563 251.317,376.773 	"/>
+</g>
+<g id="main_5_">
+	<path fill="none" stroke="#00FF00" stroke-width="5" stroke-dasharray="15 15" d="M378.443,395.885
+		c0-25.398,20.588-45.988,45.996-45.988c25.388,0,45.979,20.588,45.979,45.988"/>
+	
+		<line fill="none" stroke="#00FF00" stroke-width="5" stroke-dasharray="15 15" x1="377.578" y1="396.497" x2="471.122" y2="396.529"/>
+</g>
+</svg>
