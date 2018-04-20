@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--  APP-6(D)(2) Generator: Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!-- Generator: Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
 	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
 	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
@@ -7,75 +7,70 @@
 <svg  version="1.1" id="Version_1.0" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="400" height="400" viewBox="0 0 400 400"
 	 overflow="visible" enable-background="new 0 0 400 400" xml:space="preserve">
 <g id="main">
-	
-		<rect x="40.519" y="92.818" fill="none" stroke="#000000" stroke-width="3.6048" stroke-linecap="round" stroke-miterlimit="8" width="300.254" height="224.75"/>
-	<g>
-		<rect x="309.051" y="150.974" fill="#FFFFFF" width="49.311" height="29.188"/>
-		<text transform="matrix(1 0 0 1 313.0605 172.4521)" font-family="'ArialMT'" font-size="20.8061">PAA</text>
-	</g>
-	<g>
-		<rect x="165.992" y="302.975" fill="#FFFFFF" width="49.307" height="29.188"/>
-		<text transform="matrix(1 0 0 1 170.001 324.4531)" font-family="'ArialMT'" font-size="20.8061">PAA</text>
-	</g>
-	<g>
-		<rect x="15.865" y="150.974" fill="#FFFFFF" width="49.307" height="29.188"/>
-		<text transform="matrix(1 0 0 1 19.874 172.4521)" font-family="'ArialMT'" font-size="20.8061">PAA</text>
-	</g>
-	<g>
-		<rect x="165.992" y="78.224" fill="#FFFFFF" width="49.307" height="29.188"/>
-		<text transform="matrix(1 0 0 1 170.001 99.7021)" font-family="'ArialMT'" font-size="20.8061">PAA</text>
-	</g>
+	<polyline fill="none" stroke="#000000" stroke-width="3.6048" stroke-linecap="round" stroke-miterlimit="8" points="40.519,146.5 
+		40.519,92.818 161.5,92.818 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3.6048" stroke-linecap="round" stroke-miterlimit="8" points="
+		158.5,317.568 40.519,317.568 40.519,185.5 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3.6048" stroke-linecap="round" stroke-miterlimit="8" points="
+		340.773,189.5 340.773,317.568 222.499,317.568 	"/>
+	<path fill="none" stroke="#000000" stroke-width="3.6048" stroke-linecap="round" stroke-miterlimit="8" d="M340.773,189.5"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3.6048" stroke-linecap="round" stroke-miterlimit="8" points="219.5,92.818 
+		340.773,92.818 340.773,143.5 	"/>
+	<text transform="matrix(1 0 0 1 313.0605 172.4521)" font-family="sans-serif" font-size="20.8061">PAA</text>
+	<text transform="matrix(1 0 0 1 170.001 324.4531)" font-family="sans-serif" font-size="20.8061">PAA</text>
+	<text transform="matrix(1 0 0 1 19.874 172.4521)" font-family="sans-serif" font-size="20.8061">PAA</text>
+	<text transform="matrix(1 0 0 1 172.001 99.7021)" font-family="sans-serif" font-size="20.8061">PAA</text>
 </g>
 <g id="template" display="none">
 	
 		<rect x="158.474" y="226.014" display="inline" fill="none" stroke="#000000" stroke-width="2.5418" stroke-linecap="round" stroke-miterlimit="8" width="51.229" height="43.055"/>
-	<text transform="matrix(0.9291 0 0 1 166.6484 257.3262)" display="inline" font-family="'ArialMT'" font-size="22.4531">W1</text>
-	<text transform="matrix(0.9291 0 0 1 248.7949 247.3262)" display="inline" font-family="'ArialMT'" font-size="22.4531"> </text>
+	<text transform="matrix(0.9291 0 0 1 166.6489 257.3262)" display="inline" font-family="sans-serif" font-size="22.4531">W1</text>
+	<text transform="matrix(0.9291 0 0 1 248.7949 247.3262)" display="inline" font-family="sans-serif" font-size="22.4531"> </text>
 	
 		<text transform="matrix(0.9291 0 0 1 205.1191 207.8896)" display="inline" font-family="'TimesNewRomanPSMT'" font-size="27.0819">-</text>
 	
 		<rect x="157.313" y="177.837" display="inline" fill="none" stroke="#000000" stroke-width="2.5418" stroke-linecap="round" stroke-miterlimit="8" width="39.579" height="43.079"/>
-	<text transform="matrix(0.9291 0 0 1 165.3975 209.3125)" display="inline" font-family="'ArialMT'" font-size="22.4531">W</text>
+	<text transform="matrix(0.9291 0 0 1 165.3979 209.3125)" display="inline" font-family="sans-serif" font-size="22.4531">W</text>
 	
 		<rect x="157.357" y="128.225" display="inline" fill="none" stroke="#000000" stroke-width="2.5418" stroke-linecap="round" stroke-miterlimit="8" width="38.539" height="44.509"/>
-	<text transform="matrix(0.9291 0 0 1 170.2207 154.7485)" display="inline" font-family="'ArialMT'" font-size="22.4531">T</text>
+	<text transform="matrix(0.9291 0 0 1 170.2212 154.748)" display="inline" font-family="sans-serif" font-size="22.4531">T</text>
 	
 		<g id="varAM" transform="matrix(6.12303e-017 1 -1 6.12303e-017 405 -5) translate(240 175) scale(0.742857 0.742857) translate(-240 -175) translate(-83.4615 -235.577) translate(240 175) scale(0.834615 0.834615) translate(-240 -175) translate(240 175) scale(0.806452 0.806452) translate(-240 -175) translate(0 2) translate(0 2) translate(0 2) translate(0 2) translate(0 2) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(2 0) translate(0 2)" display="inline">
 		
 			<rect x="154.805" y="174.691" transform="matrix(2.578893e-006 1 -1 2.578893e-006 389.4954 29.8863)" fill="#FFFFFF" stroke="#000000" stroke-width="3" width="50" height="70"/>
-		<text transform="matrix(2 0 0 2 152.8104 222.6953)" font-family="'ArialMT'" font-size="18">AM</text>
+		<text transform="matrix(2 0 0 2 152.8104 222.6953)" font-family="sans-serif" font-size="18">AM</text>
 	</g>
 	<g id="points" display="inline">
 		<g>
 			<path stroke="#000000" stroke-width="0.3105" stroke-linejoin="bevel" stroke-miterlimit="10" d="M62.256,201.854l-12.149-9.063
 				c-0.563-0.427-0.68-1.243-0.252-1.825c0.427-0.563,1.242-0.68,1.806-0.252l12.149,9.063c0.583,0.427,0.699,1.243,0.271,1.825
 				C63.654,202.163,62.838,202.279,62.256,201.854L62.256,201.854z M48.322,199.505l-7.803-15.507l17.08,3.086L48.322,199.505z"/>
-			<text transform="matrix(1 0 0 1 50.3281 216.0029)" font-family="'ArialMT'" font-size="13.0426">P</text>
-			<text transform="matrix(1 0 0 1 58.7139 216.0029)" font-family="'ArialMT'" font-size="13.0426">T</text>
-			<text transform="matrix(1 0 0 1 67.0986 216.0029)" font-family="'ArialMT'" font-size="13.0426"> </text>
-			<text transform="matrix(1 0 0 1 70.8135 216.0029)" font-family="'ArialMT'" font-size="13.0426">1</text>
+			<text transform="matrix(1 0 0 1 50.3281 216.0029)" font-family="sans-serif" font-size="13.0426">P</text>
+			<text transform="matrix(1 0 0 1 58.7139 216.0029)" font-family="sans-serif" font-size="13.0426">T</text>
+			<text transform="matrix(1 0 0 1 67.0986 216.0029)" font-family="sans-serif" font-size="13.0426"> </text>
+			<text transform="matrix(1 0 0 1 70.8135 216.0029)" font-family="sans-serif" font-size="13.0426">1</text>
 		</g>
 		<g>
 			<path stroke="#000000" stroke-width="0.3105" stroke-linejoin="bevel" stroke-miterlimit="10" d="M313.059,210.9l13.121-4.483
-				c0.68-0.231,1.414,0.116,1.646,0.796c0.232,0.682-0.134,1.418-0.813,1.65l-13.12,4.479c-0.656,0.232-1.396-0.137-1.63-0.813
+				c0.681-0.231,1.414,0.116,1.646,0.796c0.231,0.682-0.134,1.418-0.813,1.65l-13.12,4.479c-0.655,0.232-1.396-0.137-1.63-0.813
 				C312.029,211.87,312.378,211.133,313.059,210.9L313.059,210.9z M321.638,201.119l17.194,2.328l-12.168,12.363L321.638,201.119z"
 				/>
-			<text transform="matrix(1 0 0 1 286.4326 224.3936)" font-family="'ArialMT'" font-size="13.0426">P</text>
-			<text transform="matrix(1 0 0 1 294.8193 224.3936)" font-family="'ArialMT'" font-size="13.0426">T</text>
-			<text transform="matrix(1 0 0 1 303.2031 224.3936)" font-family="'ArialMT'" font-size="13.0426"> 2 </text>
+			<text transform="matrix(1 0 0 1 286.4326 224.3936)" font-family="sans-serif" font-size="13.0426">P</text>
+			<text transform="matrix(1 0 0 1 294.8193 224.3936)" font-family="sans-serif" font-size="13.0426">T</text>
+			<text transform="matrix(1 0 0 1 303.2031 224.3936)" font-family="sans-serif" font-size="13.0426"> 2 </text>
 		</g>
 		<g>
 			<path stroke="#000000" stroke-width="0.3105" stroke-linejoin="bevel" stroke-miterlimit="10" d="M365.691,102.135v202.491
-				c0,0.718-0.584,1.299-1.305,1.299c-0.719,0-1.302-0.581-1.302-1.299V102.135c0-0.719,0.583-1.301,1.302-1.301
-				C365.107,100.834,365.691,101.416,365.691,102.135L365.691,102.135z M356.627,104.716l7.764-15.527l7.768,15.527H356.627z
-				 M372.154,302.042l-7.768,15.526l-7.764-15.526H372.154z"/>
-			<text transform="matrix(6.123234e-017 1 -1 6.123234e-017 374.8379 180.1611)" font-family="'ArialMT'" font-size="18">WIDTH (m)</text>
+				c0,0.718-0.584,1.299-1.306,1.299c-0.719,0-1.302-0.581-1.302-1.299V102.135c0-0.719,0.583-1.301,1.302-1.301
+				C365.107,100.834,365.691,101.416,365.691,102.135L365.691,102.135z M356.627,104.716l7.764-15.527l7.769,15.527H356.627z
+				 M372.154,302.042l-7.769,15.526l-7.764-15.526H372.154z"/>
+			<text transform="matrix(6.123234e-017 1 -1 6.123234e-017 374.8379 180.1611)" font-family="sans-serif" font-size="18">WIDTH (m)</text>
 		</g>
 	</g>
 </g>
 <g id="example" display="none">
-	<text transform="matrix(1 0 0 1 101.835 217.1064)" display="inline" font-family="'ArialMT'" font-size="24">051030ZAPR08 -</text>
-	<text transform="matrix(1 0 0 1 101.835 247.293)" display="inline" font-family="'ArialMT'" font-size="24">051600ZAPR08</text>
-	<text id="varTe" transform="matrix(1 0 0 1 130.1768 171.5762)" display="inline" font-family="'ArialMT'" font-size="24">X CORPS</text>
+	<text transform="matrix(1 0 0 1 101.835 217.1064)" display="inline" font-family="sans-serif" font-size="24">051030ZAPR08 -</text>
+	<text transform="matrix(1 0 0 1 101.835 247.293)" display="inline" font-family="sans-serif" font-size="24">051600ZAPR08</text>
+	<text id="varTe" transform="matrix(1 0 0 1 130.1768 171.5762)" display="inline" font-family="sans-serif" font-size="24">X CORPS</text>
 </g>
 </svg>
