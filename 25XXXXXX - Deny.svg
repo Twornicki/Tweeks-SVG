@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="461" height="386"
+	 viewBox="-92.857 -6.627 461 386" overflow="visible" enable-background="new -92.857 -6.627 461 386" xml:space="preserve">
+<g id="main">
+	<path fill="none" stroke="#000000" stroke-width="5" d="M284.548,248.658c9.054-17.529,14.166-37.424,14.166-58.514
+		c0-70.522-57.17-127.692-127.692-127.692c-12.977,0-25.499,1.942-37.299,5.541l2.299-0.848"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M66.792,263.93c23.134,32.618,61.195,53.906,104.229,53.906
+		c29.899,0,57.397-10.275,79.157-27.488"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M79.429,101.184c-22.338,22.996-36.1,54.368-36.1,88.96
+		c0,1.668,0.032,3.33,0.096,4.979"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M133.723,67.992l-28.444-17.018L74.27,32.421l-0.563,36.131l-0.563,36.131
+		l6.285-3.499C94.252,85.925,112.852,74.357,133.723,67.992z"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M134.288,69.027l-2.565-1.535"/>
+	<rect x="245.521" y="257.645" fill="none" width="39" height="26"/>
+	<text transform="matrix(1 0 0 1 252.7441 281.9883)" font-family="'Arial-BoldMT'" font-size="34">D</text>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M264.443,103.167l3.158-32.995L271.04,34.2l-32.87,15.004l-32.873,15.005
+		l5.857,4.174C231.302,75.219,249.734,87.051,264.443,103.167z"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M204.021,66.453l-15.301-29.402L172.037,4.996L152.619,35.47L133.2,65.944
+		l7.186,0.314C161.008,61.034,182.911,60.932,204.021,66.453z"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M73.653,106.268l-33.131,0.98l-36.119,1.067l18.984,30.746l18.984,30.747
+		l3.411-6.333C50.053,142.635,59.495,122.871,73.653,106.268z"/>
+	<polygon stroke="#000000" stroke-width="5" points="89.071,270.186 77.82,277.27 66.568,284.354 66.059,271.066 65.55,257.781 
+		77.311,263.982 	"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M297.452,165.282l19.344-26.917l21.086-29.346l-35.958-3.589l-35.956-3.588
+		l2.96,6.556C282.893,124.447,292.859,143.951,297.452,165.282z"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M292.316,234.198l30.626-12.681l33.386-13.822l-28.664-22.002L299,163.69
+		l-0.939,7.131C301.466,191.82,299.657,213.648,292.316,234.198z"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M101.814,297.404l5.565,32.676l6.065,35.623l27.816-23.064l27.817-23.063
+		l-6.744-2.5C141.103,315.732,120.22,309.124,101.814,297.404z"/>
+	<path fill="none" stroke="#000000" stroke-width="5" d="M176.332,318.614l23.753,23.116l25.896,25.203l8.877-35.027l8.879-35.028
+		l-6.922,1.957C218.873,310.264,198.107,317.232,176.332,318.614z"/>
+</g>
+<g id="template" display="none">
+	<g id="pt2" display="inline">
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="5" x1="-33.857" y1="160.373" x2="24.143" y2="187.373"/>
+			<polygon stroke="#000000" stroke-width="5" points="34.57,191.316 26.961,192.029 19.351,192.741 22.54,185.795 25.729,178.849 
+				30.15,185.083 			"/>
+		</g>
+		<text transform="matrix(1 0 0 1 -90.0488 157.7051)" font-family="'ArialMT'" font-size="24">PT. 2</text>
+	</g>
+	<g id="pt1" display="inline">
+		<g id="PT._x25_201_x25_20Center_x25_20Point" transform="matrix(1.25 0 0 1.25 -42.5 47.5)">
+			<text transform="matrix(0.8 0 0 0.8 148.4641 164.5102)" font-family="'ArialMT'" font-size="24">POINT)</text>
+			<text transform="matrix(0.8 0 0 0.8 139.4641 148.5102)" font-family="'ArialMT'" font-size="24">(CENTER</text>
+			<text transform="matrix(0.8 0 0 0.8 155.4641 133.5109)" font-family="'ArialMT'" font-size="24">PT. 1</text>
+		</g>
+		<circle cx="169.621" cy="187.057" r="4.4"/>
+	</g>
+</g>
+</svg>
