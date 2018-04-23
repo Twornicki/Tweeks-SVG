@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  APP-6(D)(2) Generator: Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Version_1.2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="400" height="400" viewBox="0 0 400 400"
+	 overflow="visible" enable-background="new 0 0 400 400" xml:space="preserve">
+<g id="main">
+	<text transform="matrix(0.9675 0 0 1 38.8296 218.3301)" font-family="sans-serif" font-size="26.0024">PAA</text>
+	<text transform="matrix(0.9675 0 0 1 155.6631 75.1621)" font-family="sans-serif" font-size="26.0024">PAA</text>
+	<text transform="matrix(0.9675 0 0 1 188.3281 337.1621)" font-family="sans-serif" font-size="26.0024">PAA</text>
+	<text transform="matrix(0.9675 0 0 1 281.6621 204.1631)" font-family="sans-serif" font-size="26.0024">PAA</text>
+	<path fill="none" stroke="#000000" stroke-width="4.9263" stroke-linejoin="round" stroke-miterlimit="10" d="M151.971,62.316
+		c-5.206-0.477-9.899-0.434-13.924,0.198"/>
+	<path fill="none" stroke="#000000" stroke-width="4.9263" stroke-linejoin="round" stroke-miterlimit="10" d="M308.296,181.015
+		c-0.804-12.707-3.256-24.076-7.806-32.92c-12.662-24.635-51.684-51.293-89.944-68.315"/>
+	<path fill="none" stroke="#000000" stroke-width="4.9263" stroke-linejoin="round" stroke-miterlimit="10" d="M308.296,181.015"/>
+	<path fill="none" stroke="#000000" stroke-width="4.9263" stroke-linejoin="round" stroke-miterlimit="10" d="M241.954,330.802
+		c11.303-0.877,21.149-4.311,28.088-11.549c16.687-17.407,34.101-67.396,37.827-111.762"/>
+	<path fill="none" stroke="#000000" stroke-width="4.9263" stroke-linejoin="round" stroke-miterlimit="10" d="M241.954,330.802"/>
+	<path fill="none" stroke="#000000" stroke-width="4.9263" stroke-linejoin="round" stroke-miterlimit="10" d="M72.134,226.545
+		c1.531,2.096,3.205,4.434,4.997,7.127c13.537,20.381,38.904,59.094,71.059,73.352c9.567,4.244,21.98,9.389,35.367,13.826"/>
+	<path fill="none" stroke="#000000" stroke-width="4.9263" stroke-linejoin="round" stroke-miterlimit="10" d="M72.134,226.545"/>
+	<path fill="none" stroke="#000000" stroke-width="4.9263" stroke-linejoin="round" stroke-miterlimit="10" d="M138.047,62.514
+		c-38.923,6.124-60.916,93.731-71.078,122.264c-1.419,3.981-2.508,7.406-3.294,10.409"/>
+</g>
+<g id="template" display="none">
+	<g id="varW1" display="inline">
+		
+			<rect x="144.818" y="208.15" fill="none" stroke="#000000" stroke-width="1.7867" stroke-linecap="round" stroke-miterlimit="8" width="69.323" height="46.688"/>
+		<text transform="matrix(1 0 0 1 160.7021 239.4932)" font-family="sans-serif" font-size="25.157">W1</text>
+	</g>
+	<g id="varW" display="inline">
+		<text transform="matrix(1 0 0 1 199.9697 187.4932)" font-family="sans-serif" font-size="25.157">-</text>
+		
+			<rect x="144.939" y="156.151" fill="none" stroke="#000000" stroke-width="1.7867" stroke-linecap="round" stroke-miterlimit="8" width="48.366" height="46.687"/>
+		<text transform="matrix(1 0 0 1 157.3682 188.6279)" font-family="sans-serif" font-size="25.157">W</text>
+	</g>
+	<g id="varT" display="inline">
+		
+			<rect x="144.939" y="107.797" fill="none" stroke="#000000" stroke-width="1.7867" stroke-linecap="round" stroke-miterlimit="8" width="44.561" height="41.703"/>
+		<text transform="matrix(1 0 0 1 161.1084 138.0977)" font-family="sans-serif" font-size="23.7276">T</text>
+	</g>
+</g>
+<g id="example" display="none">
+	<text id="varTe" transform="matrix(1 0 0 1 126.1768 158.4346)" display="inline" font-family="sans-serif" font-size="23.7276">X CORPS</text>
+	<text transform="matrix(1.0056 0 0 1 98.4995 189.5)" display="inline" font-family="sans-serif" font-size="24">051030ZAPR08 - </text>
+	<text transform="matrix(1.0056 0 0 1 98.4995 218.2998)" display="inline" font-family="sans-serif" font-size="24">051600ZAPR08</text>
+</g>
+</svg>

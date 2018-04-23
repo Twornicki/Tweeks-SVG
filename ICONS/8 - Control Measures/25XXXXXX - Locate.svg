@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: APP-6(D)(2) Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Version_1.2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="422" height="303"
+	 viewBox="-82.5 69.5 422 303" overflow="visible" enable-background="new -82.5 69.5 422 303" xml:space="preserve">
+<g id="main" transform="translate(-160 -170) scale(1.75 1.75)">
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="3" points="109.534,281.518 111.869,264.721 
+		111.26,264.636 128.522,267.037 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="3" points="117.418,216.533 103.326,225.968 
+		103.669,226.479 93.972,211.997 	"/>
+	<path fill="none" stroke="#000000" stroke-width="3" d="M258.401,253.682c-18.355,58.467-109.894,75.606-146.052,11.685"/>
+	<path fill="none" stroke="#000000" stroke-width="3" d="M103.548,225.367c12.268-97.251,142.68-88.108,156.857-8.41"/>
+	<text transform="matrix(0.5714 0 0 0.5714 240.2684 240.7288)" font-family="'ArialMT'" font-size="34.9964">LOC</text>
+</g>
+<g id="template" display="none">
+	<g id="point_2" transform="translate(-247 25)" display="inline">
+		<polygon stroke="#000000" stroke-width="2" points="264.376,200.804 233.417,199.004 239.321,182.53 		"/>
+		<line fill="none" stroke="#000000" stroke-width="2" x1="193.332" y1="171.884" x2="192.75" y2="123.5"/>
+		<line fill="none" stroke="#000000" stroke-width="2" x1="236.784" y1="191.51" x2="192.69" y2="171.544"/>
+		<text transform="matrix(1 0 0 1 183.249 70)" font-family="'ArialMT'" font-size="20.9989">PT. 2</text>
+		<text transform="matrix(1 0 0 1 170.999 115.5)" font-family="'ArialMT'" font-size="20.9989">POINT)</text>
+		<text transform="matrix(1 0 0 1 167.499 91)" font-family="'ArialMT'" font-size="20.9989">(START</text>
+	</g>
+	<g id="point_1" transform="translate(112 168)" display="inline">
+		<ellipse stroke="#000000" cx="53.5" cy="66.181" rx="2.985" ry="2.933"/>
+		<text transform="matrix(1 0 0 1 58 86.1826)" font-family="'ArialMT'" font-size="20.9989">PT. 1</text>
+		<text transform="matrix(1 0 0 1 -6.751 110.6826)" font-family="'ArialMT'" font-size="20.9989">(CENTER POINT)</text>
+	</g>
+</g>
+</svg>

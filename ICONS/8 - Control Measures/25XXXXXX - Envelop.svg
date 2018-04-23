@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: APP-6(D)(2) Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Version_1.2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="383" height="187"
+	 viewBox="9.5 154.5 383 187" overflow="visible" enable-background="new 9.5 154.5 383 187" xml:space="preserve">
+<g id="example" display="none">
+	
+		<polyline id="_x3C_path_x3E_" display="inline" fill="#FF8080" stroke="#969696" stroke-width="2" stroke-linecap="square" points="
+		316.46,293.403 352.48,257.384 316.46,221.364 280.441,257.384 316.46,293.403 	"/>
+</g>
+<g id="template" display="none">
+	<g id="points" display="inline">
+		<g id="pt4">
+			<line fill="none" stroke="#000000" stroke-width="2" x1="307.988" y1="190.055" x2="286.957" y2="174.346"/>
+			<polygon stroke="#000000" stroke-width="2" points="314.998,195.291 306.721,181.308 299.24,191.322 			"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="287.973" y1="174.513" x2="257.5" y2="174.25"/>
+			<text transform="matrix(1 0 0 1 199.249 177.999)" font-family="'Arial-BoldMT'" font-size="24">PT. 4</text>
+		</g>
+		<g id="pt3">
+			<line fill="none" stroke="#000000" stroke-width="2" x1="367.76" y1="273.5" x2="367.76" y2="299.75"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="368.063" y1="298.936" x2="350.26" y2="318.5"/>
+			<polygon stroke="#000000" stroke-width="2" points="367.76,264.75 361.51,279.75 374.01,279.75 			"/>
+			<text transform="matrix(1 0 0 1 296.249 336.249)" font-family="'Arial-BoldMT'" font-size="24">PT. 3</text>
+		</g>
+		<g id="pt2">
+			<line fill="none" stroke="#000000" stroke-width="2" x1="273.76" y1="263.5" x2="273.76" y2="289.75"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="274.063" y1="288.936" x2="256.26" y2="308.5"/>
+			<polygon stroke="#000000" stroke-width="2" points="273.76,254.75 267.51,269.75 280.01,269.75 			"/>
+			<text transform="matrix(1 0 0 1 204.249 327.249)" font-family="'Arial-BoldMT'" font-size="24">PT. 2</text>
+		</g>
+		<g id="pt1">
+			<line fill="none" stroke="#000000" stroke-width="2" x1="32.5" y1="266" x2="32.5" y2="292.25"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="32.197" y1="291.436" x2="50" y2="311"/>
+			<polygon stroke="#000000" stroke-width="2" points="32.5,257.25 38.75,272.25 26.25,272.25 			"/>
+			<text transform="matrix(1 0 0 1 53.999 320.749)" font-family="'Arial-BoldMT'" font-size="24">PT. 1</text>
+		</g>
+	</g>
+	<rect x="-178.167" y="82.5" display="inline" fill="none" width="126.333" height="16.667"/>
+</g>
+<g id="main">
+	<text transform="matrix(1 0 0 1 184.8418 260.123)" font-family="'Arial-BoldMT'" font-size="30">E</text>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="271.25" y1="248.5" x2="208.5" y2="248.5"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="176" y1="248.5" x2="37.5" y2="248.5"/>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="3" d="M366.543,249.009c0-26.447-21.4-47.849-47.848-47.849"/>
+		<path fill="none" stroke="#000000" stroke-width="3" d="M270.85,249.009c0-26.449,21.399-47.849,47.848-47.849"/>
+	</g>
+	<polygon stroke="#000000" stroke-width="2" points="378.259,249.938 366.92,261.277 366.92,261.277 355.582,249.938 	"/>
+</g>
+</svg>
