@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--APP-6(D)(2) Generator: Adobe Illustrator 12.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Version_1.2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="255.118" height="255.118"
+	 viewBox="177.5 267.5 255.118 255.118" overflow="visible" enable-background="new 177.5 267.5 255.118 255.118"
+	 xml:space="preserve">
+<g id="octagon">
+	<polygon fill="none" stroke="#0000FF" stroke-width="2" points="305,516.5 218.733,480.768 183,394.5 218.733,308.233 305,272.5 
+		391.268,308.233 427,394.5 391.268,480.768 	"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="202.5" y1="345.7" x2="407.5" y2="345.7"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="202.5" y1="443.3" x2="407.5" y2="443.3"/>
+</g>
+<g id="main">
+	<path stroke="#000000" d="M382.568,467.637c0,11.55-10.102,20.912-22.561,20.912c-12.467,0-53.218-20.912-53.218-20.912
+		s40.752-20.909,53.218-20.909C372.467,446.728,382.568,456.09,382.568,467.637z"/>
+	<path stroke="#000000" d="M229.147,467.816c0-11.74,10.272-21.26,22.942-21.26c12.671,0,54.105,21.26,54.105,21.26
+		s-41.434,21.262-54.105,21.262C239.419,489.078,229.147,479.559,229.147,467.816z"/>
+</g>
+</svg>
